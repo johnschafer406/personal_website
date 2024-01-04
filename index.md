@@ -7,9 +7,7 @@ layout: home
 
 ## About Me
 
-Hello! I'm [Your Name], a [Your Profession or Title] based in [Your Location]. With a passion for [mention your fields of interest or expertise], I have developed a range of skills in [list some key skills or areas]. I love tackling challenging problems and turning ideas into reality.
-
-In my free time, I enjoy [mention a few personal interests or hobbies].
+I love TRUCKS.
 
 ## Resume
 
@@ -49,6 +47,3 @@ More Information:
 
 [Contact Me](mailto:your.email@example.com) for any inquiries or opportunities.
 
----
-
-This site was built using the [Just the Docs] theme on [Jekyll] and is hosted on [GitHub Pages]. Feel free to browse the [documentation][Just the Docs]
