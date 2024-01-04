@@ -6,7 +6,10 @@ layout: minimal
 # Welcome Lib babies
 
 ## About Me
-![ME!!!](IMG_0625.jpg) 
+
+
+<img src="IMG_0625.jpg" alt="ME!" width="300" height="200">
+
 
 I love TRUCKS.
 
