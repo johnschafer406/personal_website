@@ -5,4 +5,5 @@ theme: just-the-docs
 url: https://johnschafer406.github.io/personal_website/
 
 aux_links:
-  
+
+color_scheme: dark
