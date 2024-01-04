@@ -6,37 +6,28 @@ layout: minimal
 # Welcome to My Portfolio
 
 ## About Me
+![ME!!!](IMG_0625.jpg) 
 
 I love TRUCKS.
 
 ## Resume
 
 ### Education
-- [Degree], [University], [Year]
+- Berkeley Bitch
 
 ### Experience
-- [Job Title], [Company/Organization], [Dates]
-- [Job Title], [Company/Organization], [Dates]
+- Who the fuck cares
 
 ### Skills
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
+- Skooling libs
 
 ### Achievements
-- [Achievement 1]
-- [Achievement 2]
+- Bombing woke-istan 
 
 ## Projects
 
 ### Project 1: [Project Title]
-test. [Link to my file](nuclear_cogeneration_report.pdf)
-
-### Project 2: [Project Title]
-Brief description of the project. [Link to more details or demo, if available]
-
-### Project 3: [Project Title]
-Brief description of the project. [Link to more details or demo, if available]
+NUKES. [Link to my file](nuclear_cogeneration_report.pdf)
 
 ---
 
