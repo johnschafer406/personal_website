@@ -1,6 +1,6 @@
 ---
-title: [Your Name]
-layout: home
+title: John Schafer
+layout: minimal
 ---
 
 # Welcome to My Portfolio
