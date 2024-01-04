@@ -3,7 +3,7 @@ title: John Schafer
 layout: minimal
 ---
 
-# Welcome to My Portfolio
+# Welcome Lib babies
 
 ## About Me
 ![ME!!!](IMG_0625.jpg) 
