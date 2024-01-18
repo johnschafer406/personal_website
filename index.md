@@ -3,7 +3,7 @@ title: John Schafer
 layout: minimal
 ---
 
-# Welcome Lib babies
+# John Schafer
 
 ## About Me
 
@@ -11,12 +11,20 @@ layout: minimal
 <img src="IMG_0625.jpg" alt="ME!" width="300" height="200">
 
 
-I love TRUCKS.
+I love TRUCKS.and more stuff
 
 ## Resume
 
 ### Education
-- Berkeley Bitch
+-    \resumeSubheading
+      {University of California, Berkeley}{Graduation May 2024}
+      {Master of Science in Systems Engineering, Civil \& Environmental Engineering, GPA: 3.715 }{Berkeley, CA}
+    \resumeSubheading
+      {Montana State University, Honors College}{2021}
+      {Bachelor of Science in Applied Mathematics, GPA: 4.00}{Bozeman, MT}
+          \resumeSubheading
+      {Montana State University, Honors College}{2021}
+      {Bachelor of Arts in Political Science, GPA: 3.98}{Bozeman, MT}
 
 ### Experience
 - Who the fuck cares
