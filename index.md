@@ -44,6 +44,10 @@ Analyzing the EV charging behavior of users in LA to identify different groups o
 
 
 ---
+<img src="IMG_5261.jpeg" alt="ME!" width="300" height="200">
+
+Outside of my professional aspirations, there is nothing better than skiing, biking and diesel trucks!
+
 
 More Information:
 - [LinkedIn](https://www.linkedin.com/in/john-schafer-5a3271204/)
