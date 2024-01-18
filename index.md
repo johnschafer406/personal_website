@@ -13,7 +13,8 @@ layout: minimal
 
 I am a Systems Engineering Masters student at UC Berkley focusing on power system engineering. Originally from Montana, I have a specific interest in decarbonization / renewable energy projects in the inter-mountain west. My work primarily is focused on the control and automation of different nuclear/SMR systems and exploring avenues to increase their value and utilization in the grid. 
 
-## [Resume](john_schafer_resume_kairos_2024.pdf)
+## Resume
+[Resume](john_schafer_resume_kairos_2024.pdf)
 
 ## Education
 
@@ -34,12 +35,14 @@ Bozeman, MT
 
 ## Projects
 
-### [Control of Cogeneration in Small Modular Reactors to Enable Load Following]
+### Control of Cogeneration in Small Modular Reactors to Enable Load Following
 Comparing Model Predictive Control versus PI control to manipulate the relative cogneration of electricity/heat in a nuclear cogneration facility in order to effectively load follow in a highly renewable pentrated microgrid setting.
+
 [nuclear_cogeneration_report.pdf](nuclear_cogeneration_report.pdf)
 
-### [EV Charging Behavior Analysis and Identification for V2G Utilization]
-Analyzing the EV charging behavior of users in LA to identify different groups of "like" charging behaviors in order to inform V2G decision making. 
+### EV Charging Behavior Analysis and Identification for V2G Utilization
+Analyzing the EV charging behavior of users in LA to identify different groups of "like" charging behaviors in order to inform V2G decision making.
+
 [v2G_charging_behavior_report.pdf](263_final_project_v2g.pdf)
 
 
