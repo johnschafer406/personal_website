@@ -16,11 +16,22 @@ I love TRUCKS.and more stuff
 ## Resume
 
 ### Education
-- University of California, Berkeley: Graduation May 2024
-      Master of Science in Systems Engineering, Civil & Environmental Engineering, GPA: 3.715
--Montana State University, Honors College: May 2021
--Montana State University, Honors College: May 2021
-      Bachelor of Arts in Political Science, GPA: 3.98
+
+#### University of California, Berkeley
+_Graduation May 2024_  
+**Master of Science in Systems Engineering, Civil & Environmental Engineering**, GPA: 3.715  
+Berkeley, CA
+
+#### Montana State University, Honors College
+_2021_  
+**Bachelor of Science in Applied Mathematics**, GPA: 4.00  
+Bozeman, MT
+
+#### Montana State University, Honors College
+_2021_  
+**Bachelor of Arts in Political Science**, GPA: 3.98  
+Bozeman, MT
+
 
 ### Experience
 - Who the fuck cares
