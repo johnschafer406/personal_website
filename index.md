@@ -8,10 +8,10 @@ layout: minimal
 ## About Me
 
 
-<img src="IMG_0625.jpg" alt="ME!" width="300" height="200">
+<img src="J_Schafer2_067_CFStaff.jpg" alt="ME!" width="300" height="200">
 
 
-I love TRUCKS.and more stuff
+I am a Systems Engineering Masters student at UC Berkley focusing on power system engineering. Originally from Montana, I have a specific interest in decarbonization / renewable energy projects in the inter-mountain west. My work primarily is focused on the control and automation of different nuclear/SMR systems and exploring avenues to increase their value and utilization in the grid. 
 
 ## [Resume](john_schafer_resume_kairos_2024.pdf)
 
