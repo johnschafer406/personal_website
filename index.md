@@ -5,50 +5,56 @@ layout: minimal
 
 # John Schafer
 
-<center>
-<img src="J_Schafer2_067_CFStaff.jpg" alt="John Schafer" width="400" height="300">
-</center>
+## About Me
 
-I am a Systems Engineering Masters student at UC Berkeley with a focus on power system engineering. Hailing from Montana, I have a keen interest in decarbonization and renewable energy projects in the inter-mountain west.
+
+<img src="J_Schafer2_067_CFStaff.jpg" alt="ME!" width="300" height="200">
+
+
+I am a Systems Engineering Masters student at UC Berkley focusing on power system engineering. Originally from Montana, I have a specific interest in decarbonization / renewable energy projects in the inter-mountain west. My work primarily is focused on the control and automation of different nuclear/SMR systems and exploring avenues to increase their value and utilization in the grid. 
 
 ## Resume
-<center>
-
-[![Resume](john_schafer_resume_kairos_2024.pdf)](john_schafer_resume_kairos_2024.pdf)
-
-</center>
+[Resume](john_schafer_resume_kairos_2024.pdf)
 
 ## Education
 
-| Institution | Degree | Graduation | GPA |
-|-------------|--------|------------|-----|
-| University of California, Berkeley | MSc in Systems Engineering | May 2024 | 3.715 |
-| Montana State University, Honors College | BSc in Applied Mathematics | 2021 | 4.00 |
-| Montana State University, Honors College | BA in Political Science | 2021 | 3.98 |
+### University of California, Berkeley
+_Graduation May 2024_  
+**Master of Science in Systems Engineering, Civil & Environmental Engineering**, GPA: 3.715  
+Berkeley, CA
+
+### Montana State University, Honors College
+_2021_  
+**Bachelor of Science in Applied Mathematics**, GPA: 4.00  
+Bozeman, MT
+
+### Montana State University, Honors College
+_2021_  
+**Bachelor of Arts in Political Science**, GPA: 3.98  
+Bozeman, MT
 
 ## Projects
 
-- **Control of Cogeneration in Small Modular Reactors**
-  
-  Exploring Model Predictive Control and PI control in nuclear cogeneration for effective load management.
+### Control of Cogeneration in Small Modular Reactors to Enable Load Following
+Comparing Model Predictive Control versus PI control to manipulate the relative cogneration of electricity/heat in a nuclear cogneration facility in order to effectively load follow in a highly renewable pentrated microgrid setting.
 
-  [View Report](nuclear_cogeneration_report.pdf)
+[nuclear_cogeneration_report.pdf](nuclear_cogeneration_report.pdf)
 
-- **EV Charging Behavior Analysis for V2G Utilization**
+### EV Charging Behavior Analysis and Identification for V2G Utilization
+Analyzing the EV charging behavior of users in LA to identify different groups of "like" charging behaviors in order to inform V2G decision making.
 
-  Analyzing EV charging patterns in LA to inform V2G strategies.
+[v2G_charging_behavior_report.pdf](263_final_project_v2g.pdf)
 
-  [View Report](263_final_project_v2g.pdf)
 
-<img src="IMG_5261.jpeg" alt="John Schafer" style="float:right; margin-left: 10px;" width="300" height="200">
+---
+<img src="IMG_5261.jpeg" alt="ME!" width="300" height="200">
 
-**Outside of Work:**
+Outside of my professional aspirations, there is nothing better than skiing, biking and diesel trucks!
 
-I enjoy skiing, biking, and diesel trucks!
 
-## More Information
+More Information:
+- [LinkedIn](https://www.linkedin.com/in/john-schafer-5a3271204/)
+- [GitHub](https://github.com/johnschafer406)
 
-- [![LinkedIn](https://www.linkedin.com/in/john-schafer-5a3271204/)](https://www.linkedin.com/in/john-schafer-5a3271204/)
-- [![GitHub](https://github.com/johnschafer406)](https://github.com/johnschafer406)
 
-**Contact Me:** [john_schafer@berkeley.edu](mailto:john_schafer@berkeley.edu)
+[Contact Me](mailto:john_schafer@berkeley.edu)
