@@ -1,35 +1,70 @@
 ---
-title: Home
-layout: home
+title: John Schafer
+layout: minimal
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# John Schafer
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## About Me
 
-More specifically, the created site:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+<img src="J_Schafer2_067_CFStaff.jpg" alt="ME!" width="300" height="200">
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+I am currently working at Lawrence Livermore National Lab focusing on the modeling and optimization of power systems. Originally from Montana, I have a specific interest in decarbonization / renewable energy projects in the Western US. My work primarily is focused on the control and automation of differing renewable energy dependent systems realting but not limited to nuclear, microgrids, battery energy storage and Vehicle-to-grid applications. 
 
-To get started with creating a site, simply:
+## Resume
+[Resume](fervo_resume_JOHN_SCHAFER.pdf)
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## Education
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+### University of California, Berkeley
+_2024_  
+**Master of Science in Systems Engineering, Civil & Environmental Engineering**, GPA: 3.715  
+Berkeley, CA
 
-----
+### Montana State University, Honors College
+_2021_  
+**Bachelor of Science in Applied Mathematics**, GPA: 4.00  
+Bozeman, MT
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+### Montana State University, Honors College
+_2021_  
+**Bachelor of Arts in Political Science**, GPA: 3.98  
+Bozeman, MT
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## Project
+### Vehicle-to-Grid (V2G) Scheduling using Reinforcement Learning
+This project explores the application of Reinforcement Learning (RL) to optimize V2G scheduling within a microgrid. The key focus is on leveraging the battery storage of electric vehicles (EVs) to balance the grid's energy supply and demand effectively. We employ two primary RL techniques: Deep Q-Learning (DQL) and Actor-Critic models, to develop and compare different strategies for energy management.
+
+[V2G_RL_report.pdf](V2G_Reinforcement_Learning_Report.pdf)
+
+
+### Control of Cogeneration in Small Modular Reactors to Enable Load Following
+Comparing Model Predictive Control versus PI control to manipulate the relative generation of electricity/heat in a nuclear cogeneration facility in order to effectively load follow in a highly renewable penetrated microgrid setting.
+
+[nuclear_cogeneration_report.pdf](290I_Final_Paper(1).pdf)
+
+### Multiperiod Robust Optimal Power Flow and Model Predictive Control
+Evaluates two methods for optimal power flow in a microgrid using the IEEE 39-bus system—Model Predictive Control (MPC) and Robust Optimization. It highlights how MPC adapts to real-time data and uncertainties better than Robust Optimization, effectively balancing energy supply from renewables with grid demands. The study demonstrates MPC's superior performance in optimizing power flows and minimizing reliance on diesel generation, paving the way for more sustainable energy management strategies."
+
+[OPF_MPC_report.pdf](OPF_report.pdf)
+
+### EV Charging Behavior Analysis and Identification for V2G Utilization
+Analyzing the EV charging behavior of users in LA to identify different groups of "like" charging behaviors in order to inform V2G decision making.
+
+[v2G_charging_behavior_report.pdf](263_final_project_v2g.pdf)
+
+
+---
+<img src="IMG_5261.jpeg" alt="ME!" width="300" height="200">
+
+Outside of my professional aspirations, there is nothing better than skiing, biking and trucks!
+
+
+More Information:
+- [LinkedIn](https://www.linkedin.com/in/john-schafer-5a3271204/)
+- [GitHub](https://github.com/johnschafer406)
+
+
+[Contact Me](mailto:john_schafer@berkeley.edu)
