@@ -14,7 +14,7 @@ layout: minimal
 I am currently working at Lawrence Livermore National Lab focusing on the modeling and optimization of power systems. Originally from Montana, I have a specific interest in decarbonization / renewable energy projects in the Western US. My work primarily is focused on the control and automation of differing renewable energy dependent systems realting but not limited to nuclear, microgrids, battery energy storage and Vehicle-to-grid applications. 
 
 ## Resume
-[Resume](fervo_resume_JOHN_SCHAFER.pdf)
+[Resume](resume_JOHN_SCHAFER.pdf)
 
 ## Education
 
