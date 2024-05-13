@@ -33,7 +33,7 @@ _2021_
 **Bachelor of Arts in Political Science**, GPA: 3.98  
 Bozeman, MT
 
-## Project
+## Projects
 ### Vehicle-to-Grid (V2G) Scheduling using Reinforcement Learning
 This project explores the application of Reinforcement Learning (RL) to optimize V2G scheduling within a microgrid. The key focus is on leveraging the battery storage of electric vehicles (EVs) to balance the grid's energy supply and demand effectively. We employ two primary RL techniques: Deep Q-Learning (DQL) and Actor-Critic models, to develop and compare different strategies for energy management.
 
