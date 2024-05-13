@@ -4,5 +4,7 @@ theme: just-the-docs
 
 url: https://johnschafer406.github.io/personal_website
 
+color_scheme: dark
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
