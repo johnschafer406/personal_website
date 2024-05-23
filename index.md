@@ -38,6 +38,7 @@ Bozeman, MT
 This project explores the application of Reinforcement Learning (RL) to optimize V2G scheduling within a microgrid. The key focus is on leveraging the battery storage of electric vehicles (EVs) to balance the grid's energy supply and demand effectively. We employ two primary RL techniques: Deep Q-Learning (DQL) and Actor-Critic models, to develop and compare different strategies for energy management.
 
 [V2G_RL_report.pdf](V2G_Reinforcement_Learning_Report.pdf)
+
 [V2G RL Git](https://github.com/johnschafer406/V2G_Reinforcement_Learning)
 
 
@@ -45,18 +46,21 @@ This project explores the application of Reinforcement Learning (RL) to optimize
 Comparing Model Predictive Control versus PI control to manipulate the relative generation of electricity/heat in a nuclear cogeneration facility in order to effectively load follow in a highly renewable penetrated microgrid setting.
 
 [nuclear_cogeneration_report.pdf](290I_Final_Paper(1).pdf)
+
 [Nuclear Cogeneration Git](https://github.com/johnschafer406/SMR_nuclear_cogeneration_control)
 
 ### Multiperiod Robust Optimal Power Flow and Model Predictive Control
 Evaluates two methods for optimal power flow in a microgrid using the IEEE 39-bus system—Model Predictive Control (MPC) and Robust Optimization. It highlights how MPC adapts to real-time data and uncertainties better than Robust Optimization, effectively balancing energy supply from renewables with grid demands. The study demonstrates MPC's superior performance in optimizing power flows and minimizing reliance on diesel generation, paving the way for more sustainable energy management strategies."
 
 [OPF_MPC_report.pdf](OPF_report.pdf)
+
 [Multiperiod OPF & MPC Git](https://github.com/carlacupcake/CE295-OPF)
 
 ### EV Charging Behavior Analysis and Identification for V2G Utilization
 Analyzing the EV charging behavior of users in LA to identify different groups of "like" charging behaviors in order to inform V2G decision making.
 
 [v2G_charging_behavior_report.pdf](263_final_project_v2g.pdf)
+
 [V2G Charging Behavior Git](https://github.com/johnschafer406/v2g_charging_behavior)
 
 
