@@ -45,7 +45,7 @@ This project explores the application of Reinforcement Learning (RL) to optimize
 ### Control of Cogeneration in Small Modular Reactors to Enable Load Following
 Comparing Model Predictive Control versus PI control to manipulate the relative generation of electricity/heat in a nuclear cogeneration facility in order to effectively load follow in a highly renewable penetrated microgrid setting.
 
-[nuclear_cogeneration_report.pdf](290I_Final_Paper(1).pdf)
+[nuclear_cogeneration_report.pdf](290I_Final_Paper (1).pdf)
 
 [Nuclear Cogeneration Git](https://github.com/johnschafer406/SMR_nuclear_cogeneration_control)
 
