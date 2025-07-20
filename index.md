@@ -11,10 +11,11 @@ layout: minimal
 <img src="J_Schafer2_067_CFStaff.jpg" alt="ME!" width="300" height="200">
 
 
-I am currently working at Lawrence Livermore National Lab focusing on the modeling and optimization of power systems. Originally from Montana, I have a specific interest in decarbonization / renewable energy projects in the Western US. My work primarily is focused on the control and automation of differing renewable energy dependent systems realting but not limited to nuclear, microgrids, battery energy storage and Vehicle-to-grid applications. 
+I am an energy-systems engineer who \textbf{launches programs from zero-to-one}. Founded SOLV Energy’s HIL testing lab, significantly cutting plant commissioning time and risk. I blend deep technical skill (Typhoon HIL, SCADA, Python) with partner-facing project management and a strategic, entrepreneurial mindset. Originally from Montana, I have a specific interest in decarbonization / renewable energy projects in the Western US. My work primarily is focused on the control and automation of differing renewable energy dependent systems realting but not limited to nuclear, microgrids, battery energy storage and Vehicle-to-grid applications. 
+
 
 ## Resume
-[Resume](resume_JOHN_SCHAFER.pdf)
+[Resume](resume_CHIL_2025.pdf)
 
 ## Education
 
