@@ -6,12 +6,12 @@ name: Deploy Jekyll site to Pages
 on:
   push:
     branches: [main]
-  workflow_dispatch:       # manual trigger
+  workflow_dispatch:     # manual trigger
 
 permissions:
   contents: read
   pages: write
-  id-token: write          # required by deploy‑pages
+  id-token: write        # required by deploy-pages
 
 concurrency:
   group: "pages"
@@ -20,7 +20,6 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Check out source
         uses: actions/checkout@v4
@@ -28,7 +27,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'          # Jekyll 4.x is tested up to 3.2
+          ruby-version: '3.2'        # Jekyll 4.x happy here
           bundler-cache: true
 
       - name: Configure GitHub Pages
@@ -41,9 +40,9 @@ jobs:
           JEKYLL_ENV: production
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v2     # → uses upload‑artifact v4
+        uses: actions/upload-pages-artifact@v3   # ← wraps upload‑artifact v4
         with:
-          path: _site                              # default Jekyll output dir
+          path: _site
 
   deploy:
     needs: build
@@ -51,8 +50,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
-
     steps:
       - name: Deploy to GitHub Pages
         id: deploy
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4            # ← matches v4 artifact
