@@ -7,73 +7,74 @@ layout: minimal
 
 ## About Me
 
+<img src="J_Schafer2_067_CFStaff.jpg" alt="John Schafer" width="300" height="200">
 
-<img src="J_Schafer2_067_CFStaff.jpg" alt="ME!" width="300" height="200">
+I'm an energy systems engineer who turns ambitious ideas into reality. From founding SOLV's CHIL testing lab to developing next-gen control systems, I thrive at the intersection of deep technical work and entrepreneurial execution. I don't just solve problems - I build the programs, teams, and systems that solve them at scale. 
 
+Originally from Montana, I focus on **decarbonization and renewable energy projects** in the Western US. My work centers on the control and automation of renewable energy systems including nuclear, microgrids, battery energy storage, and vehicle-to-grid applications.
 
-I am an energy-systems engineer who \textbf{launches programs from zero-to-one}. Founded SOLV Energy’s HIL testing lab, significantly cutting plant commissioning time and risk. I blend deep technical skill (Typhoon HIL, SCADA, Python) with partner-facing project management and a strategic, entrepreneurial mindset. Originally from Montana, I have a specific interest in decarbonization / renewable energy projects in the Western US. My work primarily is focused on the control and automation of differing renewable energy dependent systems realting but not limited to nuclear, microgrids, battery energy storage and Vehicle-to-grid applications. 
+Currently exploring opportunities in **power systems controls** and **energy system optimization**.
 
+## Experience
 
-## Resume
-[Resume](resume_CHIL_2025.pdf)
+**Test and Simulation Engineer** | *SOLV Energy* | 2024-Present  
+Pioneered SOLV's CHIL test lab from platform selection through full software Factory Acceptance Tests. High-fidelity modeling of PV and BESS sites using PSS/E and PSCAD for real-time control via SEL RTAC systems.
+
+**Critical Infrastructure Analyst** | *Lawrence Livermore National Laboratory* | Summer 2024  
+Graduate internship in the Cyber and Critical Infrastructure Summer Institute. Developed Python/MATLAB solutions to increase power system infrastructure resiliency within national security contexts.
+
+**Solutions Consultant** | *commonFont* | 2021-2022  
+Led technical implementation of SaaS platforms and BI tools for enterprise clients using JavaScript, HTML, and AWS. Headed dynamic team consulting on machine learning and data-driven business strategies.
 
 ## Education
 
-### University of California, Berkeley
-_2024_  
-**Master of Science in Systems Engineering, Civil & Environmental Engineering**, GPA: 3.715  
-Berkeley, CA
+**University of California, Berkeley** | *2024*  
+Master of Science in Systems Engineering, Civil & Environmental Engineering, GPA: 3.8  
 
-### Montana State University, Honors College
-_2021_  
-**Bachelor of Science in Applied Mathematics**, GPA: 4.00  
-Bozeman, MT
+**Montana State University, Honors College** | *2021*  
+Bachelor of Science in Applied Mathematics, GPA: 4.00  
+Bachelor of Arts in Political Science, GPA: 3.98  
 
-### Montana State University, Honors College
-_2021_  
-**Bachelor of Arts in Political Science**, GPA: 3.98  
-Bozeman, MT
+## Technical Skills
 
-## Projects
+**Power Systems**: SCADA, HIL Testing, Typhoon HIL, PLCs, SEL RTAC, Power Flow Simulation, DNP3/Modbus  
+**Programming**: Python, MATLAB/Simulink, PSS/E, PSCAD, CVXPY, TensorFlow, Git  
+**Optimization**: Convex Optimization, Model Predictive Control, Reinforcement Learning  
+
+## Featured Projects
+
 ### Vehicle-to-Grid (V2G) Scheduling using Reinforcement Learning
-This project explores the application of Reinforcement Learning (RL) to optimize V2G scheduling within a microgrid. The key focus is on leveraging the battery storage of electric vehicles (EVs) to balance the grid's energy supply and demand effectively. We employ two primary RL techniques: Deep Q-Learning (DQL) and Actor-Critic models, to develop and compare different strategies for energy management.
+Developed custom Deep Q-Learning and Actor-Critic models to optimize V2G scheduling within a microgrid. Demonstrates advanced RL applications for energy management systems.
 
-[V2G_RL_report.pdf](V2G_Reinforcement_Learning_Report.pdf)
-
-[V2G RL Git](https://github.com/johnschafer406/V2G_Reinforcement_Learning)
-
+[V2G_RL_report.pdf](V2G_Reinforcement_Learning_Report.pdf) | [GitHub](https://github.com/johnschafer406/V2G_Reinforcement_Learning)
 
 ### Control of Cogeneration in Small Modular Reactors to Enable Load Following
-Comparing Model Predictive Control versus PI control to manipulate the relative generation of electricity/heat in a nuclear cogeneration facility in order to effectively load follow in a highly renewable penetrated microgrid setting.
+Compared Model Predictive Control vs PI control for managing electricity/heat generation balance in nuclear cogeneration facilities, enabling effective load following in high renewable penetration microgrids.
 
-[nuclear_cogeneration_report.pdf](290I_Final_Paper (1).pdf)
-
-[Nuclear Cogeneration Git](https://github.com/johnschafer406/SMR_nuclear_cogeneration_control)
+[nuclear_cogeneration_report.pdf](290I_Final_Paper (1).pdf) | [GitHub](https://github.com/johnschafer406/SMR_nuclear_cogeneration_control)
 
 ### Multiperiod Robust Optimal Power Flow and Model Predictive Control
-Evaluates two methods for optimal power flow in a microgrid using the IEEE 39-bus system—Model Predictive Control (MPC) and Robust Optimization. It highlights how MPC adapts to real-time data and uncertainties better than Robust Optimization, effectively balancing energy supply from renewables with grid demands. The study demonstrates MPC's superior performance in optimizing power flows and minimizing reliance on diesel generation, paving the way for more sustainable energy management strategies."
+Evaluated MPC and Robust Optimization methods for optimal power flow in microgrids using IEEE 39-bus system. Demonstrated MPC's superior performance in managing renewable energy integration and minimizing diesel generation dependency.
 
-[OPF_MPC_report.pdf](OPF_report.pdf)
-
-[Multiperiod OPF & MPC Git](https://github.com/carlacupcake/CE295-OPF)
+[OPF_MPC_report.pdf](OPF_report.pdf) | [GitHub](https://github.com/carlacupcake/CE295-OPF)
 
 ### EV Charging Behavior Analysis and Identification for V2G Utilization
-Analyzing the EV charging behavior of users in LA to identify different groups of "like" charging behaviors in order to inform V2G decision making.
+Analyzed EV charging patterns in Los Angeles to identify user behavior clusters, informing V2G decision-making algorithms and grid integration strategies.
 
-[v2G_charging_behavior_report.pdf](263_final_project_v2g.pdf)
-
-[V2G Charging Behavior Git](https://github.com/johnschafer406/v2g_charging_behavior)
-
+[v2G_charging_behavior_report.pdf](263_final_project_v2g.pdf) | [GitHub](https://github.com/johnschafer406/v2g_charging_behavior)
 
 ---
-<img src="IMG_5261.jpeg" alt="ME!" width="300" height="200">
 
-Outside of my professional aspirations, there is nothing better than skiing, biking and trucks!
+## Resume
+[Download Resume](resume_CHIL_2025.pdf)
 
+---
 
-More Information:
+<img src="IMG_5261.jpeg" alt="Skiing" width="300" height="200">
+
+Outside of professional work, there's nothing better than skiing, biking, and working on trucks!
+
+**Connect:**
 - [LinkedIn](https://www.linkedin.com/in/john-schafer-5a3271204/)
 - [GitHub](https://github.com/johnschafer406)
-
-
-[Contact Me](mailto:john_schafer@berkeley.edu)
+- [Email](mailto:johnschafer406@gmail.com)
